@@ -1,0 +1,22 @@
+body{
+    border-width: 0px;
+    background-image: linear-gradient(#DAF2EE,#E6E1DA);
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+.titulo{
+    color: #DAF2EE;
+}
+button{
+font-size: larger;
+    height: 35pt;
+    background-color:#DAF2EE;
+    width: 200px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+} 
